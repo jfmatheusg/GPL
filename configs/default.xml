@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="GPL"/>
+	<feature automatic="selected" name="GraphType"/>
+	<feature automatic="selected" name="Type1"/>
+	<feature manual="selected" name="Directed"/>
+	<feature automatic="unselected" name="Undirected"/>
+	<feature automatic="selected" name="Type2"/>
+	<feature manual="selected" name="Weighted"/>
+	<feature automatic="unselected" name="Unweighted"/>
+	<feature name="Search"/>
+	<feature name="DFS"/>
+	<feature name="BFS"/>
+</configuration>
